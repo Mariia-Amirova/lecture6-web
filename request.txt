@@ -1,0 +1,22 @@
+General:
+Request URL: http://localhost:63342/lecture6-web/_items.html
+Request Method: GET
+Status Code: 200 OK
+Remote Address: 127.0.0.1:63342
+Referrer Policy: strict-origin-when-cross-origin
+Request Headers:
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: keep-alive
+Cookie: Idea-76ce18f6=c8095d4d-8dfc-4d8c-acb4-8092212b9d89
+Host: localhost:63342
+If-Modified-Since: Tue, 06 Dec 2022 09:37:35 GMT
+Referer: http://localhost:63342/lecture6-web/index.html?_ijt=dj8gq28bsmroakof77iu60ievt&_ij_reload=RELOAD_ON_SAVE
+sec-ch-ua: "Not_A Brand";v="99", "Google Chrome";v="109", "Chromium";v="109"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36

@@ -1,24 +1,44 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>Моя перша сторінка</title>
-  <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <title>My first page</title>
+    <link rel="stylesheet" href="style.css">
 </head>
-<body>
-  <h1>Моя перша сторінка</h1>
-  <div class="todoList">
-    <h3>Список задач</h3>
+<body style="background-image:url('/img/topBanner.png');">
+
+<div align="center">
+    <h1>My first page</h1>
+</div>
+<div class="profile">
+    <h2>Profile:</h2>
+    <p id="profileMaria">
+        <img src="/img/avatar.jpg" alt="avatar" width="120" height="120">
+    <div>
+        <h3 style="display: inline">Name: </h3>
+        <h4 style="display: inline">Maria</h4>
+    </div>
+    <div>
+        <h3 style="display: inline">GitHub: </h3>
+        <h4 style="display: inline"> <a href="#https://github.com/Mariia-Amirova/">Maria GitHub</a></h4>
+    </div>
+    </p>
+</div>
+<div class="todoList">
+    <h3>Task list</h3>
     <ul id="myList">
     </ul>
     <input type="text" name="newItemInput" id="newItemInput">
-    <input type="button" name="addListItem" value="Додати задачу" id="addListItem">
-    <input type="button" name="loadItems" value="Завантажити задачі" id="loadItems">
-  </div>
-  <div id="dataLoader">
+    <input type="button" name="addListItem" value="Add task" id="addListItem">
+    <input type="button" name="loadItems" value="Download tasks" id="loadItems">
+    <input type="button" name="deleteItems" value="Delete all tasks" id="deleteItems">
+
+</div>
+<div id="dataLoader">
 
     <p id="data"></p>
-  </div>
-  <script src="script.js"></script>
+</div>
+<script src="script.js"></script>
+
 </body>
 </html>

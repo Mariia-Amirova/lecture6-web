@@ -1,0 +1,15 @@
+Response Headers:
+accept-ranges: bytes
+cache-control: no-cache
+content-length: 105
+content-type: text/html
+date: Fri, 09 Dec 2022 13:48:48 GMT
+last-modified: Tue, 06 Dec 2022 09:37:35 GMT
+server: IntelliJ IDEA 2022.2.3
+X-Content-Type-Options: nosniff
+x-frame-options: SameOrigin
+x-xss-protection: 1; mode=block
+Response body:
+<li>Нагадування 1</li>
+<li>Нагадування 2</li>
+<li>Нагадування 3</li>
